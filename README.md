@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @satoshishimada30
+- 👋 Hi, I’m @satos
 - 👀 I’m interested in statistics and bioinformatics
 - 🌱 I’m currently learning python and HTML
 - 💞️ I’m looking to collaborate on ...
